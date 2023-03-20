@@ -2,10 +2,10 @@
 public with sharing class BoxAuthProviderTest {
     public static final String CUSTOM_METADATA_TYPE = 'unbox__BoxClientCredentialsGrant__mdt';
     public static final String BOX_AUTH_PROVIDER_NAME = 'BoxCCG';
-    public static final String BOX_CLIENT_ID = '141uw2duh1es7upm46n0e44sku5qerpn';
-    public static final String BOX_CLIENT_SECRET = 'gZ4L21GRMHOptnU2R2R4zvlvJ9TK4hZz';
+    public static final String BOX_CLIENT_ID = 'CHANGE_ME';
+    public static final String BOX_CLIENT_SECRET = 'CHANGE_ME';
     public static final String BOX_SUBJECT_TYPE = 'enterprise';
-    public static final String BOX_SUBJECT_ID = '5105484';
+    public static final String BOX_SUBJECT_ID = 'CHANGE_ME';
     public static final String BOX_API_BASE_URL = 'http://api.box.com/2.0';
     public static final String BOX_TOKEN_ENDPOINT = '/oauth2/token';
     public static final String BOX_USERS_ENDPOINT = '/users/me?fields=id,name,login';
